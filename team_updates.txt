@@ -1,0 +1,2 @@
+Development Team Started Git Practice.
+All members completed repository setup.git add team_updates.txt
